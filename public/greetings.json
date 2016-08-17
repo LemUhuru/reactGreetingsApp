@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "author": "Wayne",
+    "body": "Good Morning!",
+  },
+  {
+    "id": 2,
+    "author": "John",
+    "body": "Good Afternoon!",
+  },
+  {
+    "id": 3,
+    "author": "Henry",
+    "body": "Good Evening!",
+  }
+]
