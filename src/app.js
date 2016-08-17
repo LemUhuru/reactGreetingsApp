@@ -2,9 +2,10 @@ var express = require('express');
 var app = express();
 
 // Database Setup
-
 var mongoose = require('mongoose');
 mongoose.connect('mongodb://localhost/test');
+
+var Greeting = require('./models/greeting/');
 
 
 // Config bodyParser
