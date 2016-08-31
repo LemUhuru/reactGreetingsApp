@@ -6,4 +6,4 @@ var GreetingSchema = new Schema({
   greeting: String
 });
 
-module.exports = mongoose.model('Greeting', GreetingScehma);
+module.exports = mongoose.model('Greeting', GreetingSchema);
